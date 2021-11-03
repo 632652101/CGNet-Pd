@@ -60,8 +60,8 @@ Context Guided Network（CGNet）是由中国科学院计算所Tianyi Wu、Sheng
 
 ```
 # clone this repo
-git clone https://github.com/632652101/CGNet-PP.git
-cd CGNet-PP
+git clone https://github.com/632652101/CGNet-Pd.git
+cd CGNet-Pd
 ```
 
 ### step2: 安装依赖
