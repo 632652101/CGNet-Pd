@@ -1,0 +1,2 @@
+paddlepaddle-gpu==2.1.2.post101
+mmcv
